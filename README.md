@@ -1,13 +1,14 @@
-DevTips-Starter-Kit (Jekyll Friendly)
+Splash page and Model
 ===================
+
+#I devoped a splash page and model by following travis neilson @Devtip show.I used jekyll as working Enviorment and used Sass for styling the page.
+
+
+
 
 Use this as a simple structure for a simple start to a simple site.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GTBaQ2DcGUk
-" target="_blank">
-Watch the video on YouTube
-<img src="thumbnail.png" 
-alt="Watch the video on youtube" />
 
-</a>
+
+
